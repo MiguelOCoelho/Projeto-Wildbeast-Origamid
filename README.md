@@ -1,4 +1,4 @@
-# Layout CSS Grid **WILDBEAST**
+# **WILDBEAST**
 
 Site institucional de página única sobre a vida selvagem dos lobos, com a marca fictícia **Wildbeast**. Desenvolvido como projeto prático de curso intensivo de **CSS Grid Layout**, focando em estruturação completa de páginas com Grid puro (sem Flexbox), do zero até um layout 100% responsivo.
 
